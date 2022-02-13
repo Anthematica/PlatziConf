@@ -42,8 +42,8 @@ main .carousel img {
 
 footer {
     background: linear-gradient(90deg, #1c3643, #273b47 25%, #1e5472);
-    position: absolute;
-    bottom: 0;
+    /* position: absolute;
+    bottom: 0; */
     width: 100%;
 }
 
